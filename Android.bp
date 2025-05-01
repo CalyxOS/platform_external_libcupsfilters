@@ -15,7 +15,6 @@
 cc_library_shared {
     name: "libcupsfilters",
 
-    sdk_version: "current",
     visibility: [
         "//vendor:__subpackages__",
         "//external/libppd",
